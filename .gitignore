@@ -1,0 +1,7 @@
+node_modules
+.env
+temp
+uploads
+public
+.DS_Store
+yarn.lock
